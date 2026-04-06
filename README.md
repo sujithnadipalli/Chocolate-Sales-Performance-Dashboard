@@ -35,7 +35,7 @@ It transforms raw data into an interactive dashboard that supports business deci
 
 📸 Dashboard Preview
 
-"Dashboard" (dashboard.png)
+! [Dashboard](dashboard.png)
 
 ---
 
